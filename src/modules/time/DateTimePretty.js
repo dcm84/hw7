@@ -13,7 +13,7 @@ function DateTimePretty(Component) {
     }
 }
 
-Video.propTypes = {
+DateTimePretty.propTypes = {
     date: PropTypes.string.isRequired
 }
 

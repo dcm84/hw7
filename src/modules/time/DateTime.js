@@ -6,7 +6,7 @@ function DateTime(props) {
     )
 }
 
-Video.propTypes = {
+DateTime.propTypes = {
     date: PropTypes.string.isRequired
 }
 
